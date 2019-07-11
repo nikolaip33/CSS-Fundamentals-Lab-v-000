@@ -19,6 +19,7 @@ header {
 
 #featured-property p {
   width: 800px;
+  margin: auto;
 }
 
 nav a {
