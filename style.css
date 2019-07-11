@@ -2,6 +2,7 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+
 }
 
 header {
@@ -14,6 +15,10 @@ header {
 
 #featured-property figcaption {
   font-size: 12px;
+}
+
+#featured-property p {
+  
 }
 
 nav a {
