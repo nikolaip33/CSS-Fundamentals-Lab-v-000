@@ -10,10 +10,10 @@ header {
 
 #featured-property {
   text-align: center;
+}
 
-  figcaption {
-    font-size: 10px;
-  }
+#featured-property figcaption {
+  font-size: 10px;
 }
 
 nav a {
