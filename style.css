@@ -26,3 +26,7 @@ nav a {
   padding: 0px 10px;
   background-color: #ccc;
 }
+
+#details > div {
+  width: 25%;
+}
