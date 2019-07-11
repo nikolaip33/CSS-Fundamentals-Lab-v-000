@@ -27,6 +27,11 @@ nav a {
   background-color: #ccc;
 }
 
+#details {
+  width: 800px;
+  margin: auto;
+}
+
 #details > div {
   width: 25%;
   float: left;
