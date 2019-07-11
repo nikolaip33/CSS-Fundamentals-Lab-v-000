@@ -2,4 +2,35 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+
+}
+
+header {
+  text-align: center;
+}
+
+#featured-property {
+  text-align: center;
+}
+
+#featured-property figcaption {
+  font-size: 12px;
+}
+
+#featured-property p {
+  width: 800px;
+  margin: auto;
+}
+
+nav a {
+  padding: 0px 10px;
+  background-color: #ccc;
+}
+
+
+#details > div {
+  width: 25%;
+  float: left;
+  text-align: center;
+  background-color: red;
 }
