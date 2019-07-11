@@ -27,7 +27,9 @@ nav a {
   background-color: #ccc;
 }
 
-
+#details {
+  background-color: red;
+}
 
 #details > div {
   width: 25%;
